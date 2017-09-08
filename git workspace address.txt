@@ -1,3 +1,4 @@
 http://dockerhost01.rankingcoach.com:7777
-
+http://dockerhost02.rankingcoach.com:7777
+http://dockerhost03.rankingcoach.com:7777
 
